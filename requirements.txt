@@ -1,0 +1,8 @@
+crewai==1.15.10
+crewai-tools==1.15.10
+chromadb==1.1.1
+ollama
+langchain-ollama
+beautifulsoup4
+requests
+jupyter
